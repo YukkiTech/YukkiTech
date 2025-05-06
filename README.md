@@ -1,5 +1,5 @@
-<h1 align="center">👋 Привет, я <имя/ник></h1>
-<h3 align="center">🚀 Fullstack разработчик из <Russia></h3>
+<h1 align="center">👋 Привет, я Yukkii</h1>
+<h3 align="center">🚀 Fullstack разработчик из 🇷🇺</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
